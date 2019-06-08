@@ -1,5 +1,8 @@
 <h1>Fake News</h1>
 
+
+<img src = "Status-Work in Progress-success.svg">
+
 I have always had the dislike for things that were misleading, deceptive or purposefully crafted to trap you. I had a fear for all things 'fake'. This is what has motivated me to spend my time and hopefully research in-depth into fighting this major societal problem, Fake News. A report by Gartner reinforces this by quoting that "by 2022, most people in mature economies will consume more false information than true information". <b>Can we imagine leaving in a world where the 'fake' outweighs the 'real'?</b> We will be put into an alternate reality that has the potential to influence and control us.
 
 <h3>Fake News 1</h3>
