@@ -10,3 +10,5 @@ I have always had the dislike for things that were misleading, deceptive or purp
 This uses the fake_or_real_news.csv file that was prepared by George McIntire in 2017 - see https://opendatascience.com/how-to-build-a-fake-news-classification-model/. The dataset has about 6,000 items, consisting of the headline and text of a news article and the label, FAKE or REAL.
 
 I consistently got an accuracy of over 98% as compared to the original accuracy of  91.7% by George McIntire 
+
+Contact me here: cabhijith001@gmail.com
