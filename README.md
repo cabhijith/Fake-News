@@ -11,4 +11,6 @@ This uses the fake_or_real_news.csv file that was prepared by George McIntire in
 
 I consistently got an accuracy of over 98% as compared to the original accuracy of  91.7% by George McIntire 
 
+Have more ideas? Contace me ASAP
+
 Contact me here: cabhijith001@gmail.com
