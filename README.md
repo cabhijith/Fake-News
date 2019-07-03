@@ -13,6 +13,6 @@ I consistently got an accuracy of over 98% as compared to the original accuracy 
 
 <b>Currently trying to host it as a website and provide a real service</b>
 
-Have more ideas? Contace me ASAP
+Have more ideas? Contact me ASAP
 
 Contact me here: cabhijith001@gmail.com
