@@ -13,6 +13,9 @@ I consistently got an accuracy of over 98% as compared to the original accuracy 
 
 <b>Currently trying to host it as a website and provide a real service</b>
 
+## Plotted
+It shows a radical new way to think about analytical problems in text. While not fully verified, it could provide a way to combine statistical machines with Deep Neural Networks
+
 Have more ideas? Contact me ASAP
 
 Contact me here: cabhijith001@gmail.com
